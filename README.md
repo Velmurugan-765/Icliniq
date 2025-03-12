@@ -71,6 +71,6 @@ Ensure you have the following installed:
 
 ## Contributors
 - VELMURUGAN
-- VIKASH VARDAHN
+- VIKASH VARDHAN
 - DINESHKUMAR
 - INDIRA NIVAS
