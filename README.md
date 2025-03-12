@@ -65,9 +65,9 @@ Ensure you have the following installed:
 - **NLP complexity** in processing multilingual symptom queries.
 
 ## Future Improvements
-- **Integration with Electronic Health Records (EHRs)** for better personalization.
+- **Integration with Large Real-time Datasets** for better personalization.
 - **Enhanced AI explanations** for better transparency.
-- **Multilingual NLP support** for broader accessibility.
+
 
 ## Contributors
 - VELMURUGAN
